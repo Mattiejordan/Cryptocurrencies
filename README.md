@@ -12,18 +12,24 @@ visualized into charts and graphs.
 ###  * Cleaning Cryptocurrency Data with get_dummies and fit_transform
 ![Mod18Images/D1](Mod18Images/D1.PNG)
 
-
+__________________________________________________
 
 ### * Reduce dimensions into three principal components
 
 ![Mod18Images/D2](Mod18Images/D2.PNG)
-
+__________________________________________________
 ### * K-means algorithm clusters PCA data with hvPlot
 ![Mod18Images/D3](Mod18Images/D3.PNG)
+__________________________________________________
 
 ### * Cryptocurrency Data Visualized 
 ![Mod18Images/D41](Mod18Images/D41.PNG)
+*Tradable Crypotcurrencies*
+__________________________________________________
 
 ![Mod18Images/D42](Mod18Images/D42.PNG)
+*Concatenated and Scaled*
 
+__________________________________________________
 ![Mod18Images/D43](Mod18Images/D43.PNG)
+*Scatter plot*
